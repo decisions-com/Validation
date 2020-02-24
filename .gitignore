@@ -1,0 +1,14 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DataStructureValidation.zip
+/.vs/decisions-mod-skeleton/v16/.suo
+/.vs/DataStructureValidation/v16/Server/sqlite3
+/.vs
+/DataStructureValidation/bin/Debug
+/DataStructureValidation/obj/Debug
+/DataStructureValidation/obj/Release
+/packages
+/UnitTestProject1/bin/Debug
+/UnitTestProject1/obj/Debug
